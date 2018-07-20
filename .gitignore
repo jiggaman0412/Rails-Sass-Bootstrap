@@ -1,0 +1,17 @@
+#Ignore bundler config.
+/.bundle
+/vendor/bundle
+
+# Ignore log and temp.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore ENV.
+.env*
+!.env.sample
+
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key
