@@ -20,3 +20,6 @@ Bootstrapを用いて、割と簡単に動的ウェブサイトを構築でき�
 - bundle exec rails db:migrate
 - bundle exec rails s
 ```
+
+# 参考記事
+https://qiita.com/jiggaman0412/items/e89ea1267eb818320c67
